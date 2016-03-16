@@ -5,3 +5,4 @@ Includes a crawler and indexer to crawl and index the wikipedia xml dump file.
 The project was created using netbeans.
 Please import the project in netbeans to view code.
 Contains the Wiki xml dump file.
+The program uses Cosine Similarity to measure the relevance of documents to query and provide result.
